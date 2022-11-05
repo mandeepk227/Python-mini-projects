@@ -1,0 +1,1 @@
+# Here are some basic Python Projects made while learning the language
